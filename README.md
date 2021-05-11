@@ -1,3 +1,9 @@
-# We did it
+# Device Agnostic Template Matching
 
-[Pre-run results](./results/README.md)
+## Running the notebook locally
+
+`juptyer-notebook TEMPLATEMATCHING.ipynb`
+
+## See the results
+
+[Pre-rendered notebook](./results/README.md)
